@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="29" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="208020" started-at="2016-04-30T12:13:41Z" finished-at="2016-04-30T12:17:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="208020" started-at="2016-04-30T12:13:41Z" finished-at="2016-04-30T12:17:09Z">
+      <class name="com.sss.SSSflow">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="openBrowser" is-config="true" duration-ms="8558" started-at="2016-04-30T17:43:41Z" finished-at="2016-04-30T17:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="login" duration-ms="4386" started-at="2016-04-30T17:43:49Z" finished-at="2016-04-30T17:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="clickOnView()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnView" duration-ms="3055" started-at="2016-04-30T17:43:54Z" finished-at="2016-04-30T17:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnView -->
+        <test-method status="PASS" signature="clickOnAddUserDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnAddUserDelegate" duration-ms="4773" started-at="2016-04-30T17:43:57Z" finished-at="2016-04-30T17:44:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddUserDelegate -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="logOut" duration-ms="3177" started-at="2016-04-30T17:44:01Z" finished-at="2016-04-30T17:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="loginAsDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="loginAsDelegate" duration-ms="3406" started-at="2016-04-30T17:44:05Z" finished-at="2016-04-30T17:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsDelegate -->
+        <test-method status="PASS" signature="clickOnViewAsDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnViewAsDelegate" duration-ms="3572" started-at="2016-04-30T17:44:08Z" finished-at="2016-04-30T17:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnViewAsDelegate -->
+        <test-method status="PASS" signature="clickOnViewAndEdit()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnViewAndEdit" duration-ms="2981" started-at="2016-04-30T17:44:12Z" finished-at="2016-04-30T17:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnViewAndEdit -->
+        <test-method status="PASS" signature="implementationContact()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="implementationContact" duration-ms="4234" started-at="2016-04-30T17:44:15Z" finished-at="2016-04-30T17:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implementationContact -->
+        <test-method status="PASS" signature="processingContact()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="processingContact" duration-ms="8000" started-at="2016-04-30T17:44:19Z" finished-at="2016-04-30T17:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- processingContact -->
+        <test-method status="PASS" signature="technicalContact()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="technicalContact" duration-ms="4272" started-at="2016-04-30T17:44:27Z" finished-at="2016-04-30T17:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- technicalContact -->
+        <test-method status="PASS" signature="selectAccounts()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="selectAccounts" duration-ms="4251" started-at="2016-04-30T17:44:31Z" finished-at="2016-04-30T17:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAccounts -->
+        <test-method status="PASS" signature="instructions()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="instructions" duration-ms="4107" started-at="2016-04-30T17:44:35Z" finished-at="2016-04-30T17:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instructions -->
+        <test-method status="PASS" signature="saveDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="saveDelegate" duration-ms="15383" started-at="2016-04-30T17:44:39Z" finished-at="2016-04-30T17:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveDelegate -->
+        <test-method status="PASS" signature="completeDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="completeDelegate" duration-ms="12951" started-at="2016-04-30T17:44:55Z" finished-at="2016-04-30T17:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeDelegate -->
+        <test-method status="PASS" signature="signoutFromDelegate()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="signoutFromDelegate" duration-ms="10048" started-at="2016-04-30T17:45:08Z" finished-at="2016-04-30T17:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoutFromDelegate -->
+        <test-method status="PASS" signature="sales_Login()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="sales_Login" duration-ms="7915" started-at="2016-04-30T17:45:18Z" finished-at="2016-04-30T17:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sales_Login -->
+        <test-method status="PASS" signature="salesReview()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="salesReview" duration-ms="10220" started-at="2016-04-30T17:45:26Z" finished-at="2016-04-30T17:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesReview -->
+        <test-method status="PASS" signature="salesViewEdit()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="salesViewEdit" duration-ms="8450" started-at="2016-04-30T17:45:36Z" finished-at="2016-04-30T17:45:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesViewEdit -->
+        <test-method status="PASS" signature="salesEdit()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="salesEdit" duration-ms="4148" started-at="2016-04-30T17:45:44Z" finished-at="2016-04-30T17:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesEdit -->
+        <test-method status="PASS" signature="salesSave()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="salesSave" duration-ms="17453" started-at="2016-04-30T17:45:49Z" finished-at="2016-04-30T17:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesSave -->
+        <test-method status="PASS" signature="salesComplete()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="salesComplete" duration-ms="18397" started-at="2016-04-30T17:46:06Z" finished-at="2016-04-30T17:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesComplete -->
+        <test-method status="PASS" signature="clickOnSalesIRStatus()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnSalesIRStatus" duration-ms="14199" started-at="2016-04-30T17:46:24Z" finished-at="2016-04-30T17:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSalesIRStatus -->
+        <test-method status="PASS" signature="clickOnSaveOfSales()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnSaveOfSales" duration-ms="3713" started-at="2016-04-30T17:46:39Z" finished-at="2016-04-30T17:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSaveOfSales -->
+        <test-method status="PASS" signature="signOutFromSales()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="signOutFromSales" duration-ms="5900" started-at="2016-04-30T17:46:42Z" finished-at="2016-04-30T17:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutFromSales -->
+        <test-method status="PASS" signature="signinAsSDC()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="signinAsSDC" duration-ms="4231" started-at="2016-04-30T17:46:48Z" finished-at="2016-04-30T17:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinAsSDC -->
+        <test-method status="PASS" signature="ViewSdc()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="ViewSdc" duration-ms="4016" started-at="2016-04-30T17:46:53Z" finished-at="2016-04-30T17:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewSdc -->
+        <test-method status="PASS" signature="viewAndEdit()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="viewAndEdit" duration-ms="2950" started-at="2016-04-30T17:46:57Z" finished-at="2016-04-30T17:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAndEdit -->
+        <test-method status="PASS" signature="clickOnIRStatus()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnIRStatus" duration-ms="6071" started-at="2016-04-30T17:46:59Z" finished-at="2016-04-30T17:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnIRStatus -->
+        <test-method status="FAIL" signature="clickOnFinalizeForms()[pri:0, instance:com.sss.SSSflow@3b6eb2ec]" name="clickOnFinalizeForms" duration-ms="3108" started-at="2016-04-30T17:47:06Z" finished-at="2016-04-30T17:47:09Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Finalize Forms']"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'user-PC', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir10748_9312}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 559dde793ff2046c73e46fcd8402c596
+*** Element info: {Using=xpath, value=//button[text()='Finalize Forms']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Finalize Forms']"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'user-PC', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir10748_9312}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 559dde793ff2046c73e46fcd8402c596
+*** Element info: {Using=xpath, value=//button[text()='Finalize Forms']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:490)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at com.sss.SSSflow.clickOnFinalizeForms(SSSflow.java:204)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFinalizeForms -->
+      </class> <!-- com.sss.SSSflow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="oneIR_2Product.OneIR2Product"/>
+      <class name="com.tps.ClientSubmit"/>
+      <class name="com.tps.SDCflow"/>
+      <class name="com.tps.TpsUser"/>
+      <class name="com.tps.Sdc_user"/>
+      <class name="com.sss.SSSflow"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
